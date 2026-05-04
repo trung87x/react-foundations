@@ -17,3 +17,5 @@ Bây giờ bạn đã có nền tảng vững chắc, hãy bắt đầu xây d�
 ---
 
 **Chúc mừng bạn một lần nữa!** Bạn đã sẵn sàng để tiến xa hơn trên con đường trở thành một nhà phát triển Next.js chuyên nghiệp.
+
+
